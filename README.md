@@ -115,3 +115,7 @@ This dataset supports multiple **business and analytical** use cases:
 🔹 **Scalability Improvements**  
 - Optimize queries by **adding indexes** where necessary.  
 - Consider migrating to a **cloud data warehouse** or building a **data lake** for larger datasets. 
+
+🔹 **Enable Logging and Monitoring**  
+- Enhance Dagster logging or integrate with other logging tool for better monitoring of the jobs.
+- Alerts for missing partitions or job failures would **improve reliability**. 
