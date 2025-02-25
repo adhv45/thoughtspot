@@ -1,0 +1,1002 @@
+CUSTOMER_ID,NAME,AGE,COUNTRY
+1000,Thomas Brown,31,Guernsey
+1001,Stephanie Vaughn,33,Niger
+1002,Darrell Thomas IV,53,Gambia
+1003,Cheryl Castro,23,Zambia
+1004,Erik Clarke,44,Timor-Leste
+1005,Rebecca Evans,28,Kuwait
+1006,Sheryl Carter,24,British Indian Ocean Territory (Chagos Archipelago)
+1007,Deborah Wheeler,47,Bahamas
+1008,Jennifer Lara,56,Tokelau
+1009,James Robertson,55,Kazakhstan
+1010,Charles Lester,29,United Kingdom
+1011,Brandon Castro,31,Guam
+1012,Michael Martin,22,Cocos (Keeling) Islands
+1013,Teresa Avila,34,Saint Pierre and Miquelon
+1014,Kevin Brown,51,Mozambique
+1015,Justin Vaughan,31,Israel
+1016,Sally Thompson,57,Trinidad and Tobago
+1017,Ashlee Mclaughlin,49,Kuwait
+1018,Sean Parker,48,Ethiopia
+1019,Trevor Holmes,40,Iceland
+1020,Cristina Watkins,24,United Kingdom
+1021,Jessica Stevens,62,Gabon
+1022,Daniel Oconnor,29,Latvia
+1023,Jaclyn Ruiz,35,British Indian Ocean Territory (Chagos Archipelago)
+1024,Dalton Rose,63,Tajikistan
+1025,Bryan Manning,57,Sudan
+1026,Elizabeth Carter,54,Barbados
+1027,Daniel Davenport,39,Greenland
+1028,Charles Reid,20,Korea
+1029,Ryan Burns,31,Iceland
+1030,Regina Williams,34,Gibraltar
+1031,Kenneth Gonzalez,64,United Kingdom
+1032,Brittany Peters,21,Mexico
+1033,Jennifer Robertson,64,Western Sahara
+1034,William Brown,50,Venezuela
+1035,Dale Lopez,33,South Georgia and the South Sandwich Islands
+1036,Catherine Smith,39,Latvia
+1037,Tonya Miller,18,Guatemala
+1038,David Bean,44,Nauru
+1039,Shannon Bray,25,Guatemala
+1040,Tara Morris,61,Indonesia
+1041,Courtney Gardner,48,Thailand
+1042,Bradley Brooks,48,Libyan Arab Jamahiriya
+1043,Emily Mosley,35,Andorra
+1044,Shannon Johnson,42,Algeria
+1045,Laura Williams,37,Macao
+1046,Ashley Knight,64,British Virgin Islands
+1047,Mary Liu,19,Estonia
+1048,Tara Brown,27,Belarus
+1049,Anna Hayes,34,Finland
+1050,Brent Brown,42,Malawi
+1051,Martin Scott,61,Anguilla
+1052,Jeffrey Nguyen,50,Belgium
+1053,Corey Harper,65,Vietnam
+1054,Michael King,48,United States Virgin Islands
+1055,Nicole Martin,48,Cyprus
+1056,Joshua Hernandez,63,Bahrain
+1057,Johnny Bauer,61,Gibraltar
+1058,Karen Williams,49,Grenada
+1059,Scott Ray,51,Belize
+1060,David Shannon MD,30,Heard Island and McDonald Islands
+1061,Brian Stevens,47,Namibia
+1062,Madison Clay,27,El Salvador
+1063,Ashley Hoover,44,Algeria
+1064,Joshua Brown,37,Maldives
+1065,Timothy Nolan,26,Guatemala
+1066,Matthew Lewis,41,Malta
+1067,Michael Woods,19,Oman
+1068,Donald Robertson,63,Armenia
+1069,Natalie Bryant,33,Uruguay
+1070,Rodney Rogers,58,Russian Federation
+1071,Richard Sanchez,18,Samoa
+1072,Nicholas Rivas,23,Japan
+1073,Hannah Hernandez,35,Morocco
+1074,Cassandra Thompson,41,Chile
+1075,Charles Fletcher,37,Paraguay
+1076,Jimmy Romero,28,Sweden
+1077,Amanda Douglas,47,Kiribati
+1078,Meghan Dalton,18,Greenland
+1079,Kathryn Stewart,20,Guam
+1080,Robert Knight,45,El Salvador
+1081,Victor Newton,43,Denmark
+1082,Nathan Mathews,42,Trinidad and Tobago
+1083,Michael Page,39,Cote d'Ivoire
+1084,Albert Thompson,42,Brunei Darussalam
+1085,Heidi Huff PhD,51,Cambodia
+1086,Patricia Dunlap DDS,21,Ethiopia
+1087,Mrs. Amanda Moore MD,57,Oman
+1088,Michelle Hawkins,37,Palestinian Territory
+1089,Larry Nunez,61,Saint Pierre and Miquelon
+1090,Aaron Mccarthy,34,Guinea-Bissau
+1091,Stephen Anderson,51,Italy
+1092,Dr. Heather Griffin,22,Guyana
+1093,Paul Cannon,33,El Salvador
+1094,Jennifer Hernandez,45,Korea
+1095,Robert Leon,35,Guam
+1096,Susan Gonzales,44,Saint Martin
+1097,Bernard Olson,43,Sweden
+1098,William Jones,20,Heard Island and McDonald Islands
+1099,Paul Brown,64,Myanmar
+1100,Joshua Crawford,57,Bangladesh
+1101,Kevin Williams,59,Anguilla
+1102,Amy Lowe DVM,31,Czech Republic
+1103,Debra Goodman,22,Guernsey
+1104,Sandra Harris,45,Yemen
+1105,Renee Day,61,Congo
+1106,Patrick Hawkins,32,Bahamas
+1107,Aaron Nichols,55,Antigua and Barbuda
+1108,Jennifer Howard,62,Haiti
+1109,Jocelyn Holland PhD,34,Poland
+1110,Cindy Miranda,64,Cambodia
+1111,Kelly Crawford,51,Iceland
+1112,Janet Woodward,21,Jersey
+1113,Phillip Jones,21,Congo
+1114,Theresa Hughes,62,Austria
+1115,Kayla Allen,43,Andorra
+1116,Andrew Ortiz,56,Switzerland
+1117,Mr. Shawn Henry,47,Anguilla
+1118,Kevin Roberson,40,Armenia
+1119,Wayne Baker,52,Eritrea
+1120,Krystal Simpson,24,Sierra Leone
+1121,John Gordon,18,Iran
+1122,Mark Guerra,48,South Africa
+1123,Jessica Brown,33,Monaco
+1124,Peter Moran,65,Falkland Islands (Malvinas)
+1125,Charles Shields,23,Mauritania
+1126,Joan Martin,44,Brazil
+1127,Denise Parker,27,Philippines
+1128,Shirley Olson,29,Canada
+1129,Kathy Villanueva,53,Guadeloupe
+1130,April Cole,44,Yemen
+1131,Barbara Garcia,57,Angola
+1132,Jennifer Edwards,55,Hong Kong
+1133,Erika James,34,Grenada
+1134,Victor Elliott,50,Guam
+1135,Robert Smith,62,Brazil
+1136,Meghan Mendoza,48,Switzerland
+1137,Jason Johnson,46,Lao People's Democratic Republic
+1138,Anthony Williams,59,North Macedonia
+1139,Christina Smith,36,Iraq
+1140,Robin Reed,40,Martinique
+1141,Rebecca Walker,18,Honduras
+1142,Paul Garcia,34,Nauru
+1143,Angela Daniels,47,Mali
+1144,Elizabeth Collins,34,Philippines
+1145,Angela Brown,28,Ecuador
+1146,Taylor Davidson,34,Kuwait
+1147,James Dixon,50,Martinique
+1148,Ashley Galvan,46,Burkina Faso
+1149,Anne Lopez,49,Trinidad and Tobago
+1150,Andrea Salazar,53,Honduras
+1151,Elijah Santos,30,Timor-Leste
+1152,Matthew Mcdonald,46,Norway
+1153,Lindsay Brown,59,Burkina Faso
+1154,Ann Smith,57,Comoros
+1155,Brianna Gilbert,20,Estonia
+1156,Angela Bradley,51,Monaco
+1157,Autumn Davis,53,Vanuatu
+1158,Alicia Lee,47,Tonga
+1159,Daniel Nelson,20,Jordan
+1160,Joyce Johnson,52,Canada
+1161,Megan Murphy,38,France
+1162,Christine Mcdaniel,44,El Salvador
+1163,Phillip Martinez,34,Ireland
+1164,John Malone,49,Mexico
+1165,Rebecca Allen,57,Albania
+1166,Brian Walsh,57,Libyan Arab Jamahiriya
+1167,Chelsea Rivas,20,United States Minor Outlying Islands
+1168,Miranda White,39,Greece
+1169,Jose Martin,26,Croatia
+1170,Paul Perez,56,Saint Pierre and Miquelon
+1171,Stacey Walter,60,Jordan
+1172,Angela Krause,61,Saint Kitts and Nevis
+1173,Eric Hawkins,31,Panama
+1174,Brenda Kim,49,Kenya
+1175,Michael Humphrey,24,Christmas Island
+1176,Martin Ware,20,Afghanistan
+1177,Lisa Keller,26,Mauritius
+1178,Travis Fernandez,43,Timor-Leste
+1179,Jill Bryant,23,Haiti
+1180,Jeffrey Green,41,Australia
+1181,Joseph Wong,22,Mauritania
+1182,Pamela Cuevas,18,Antigua and Barbuda
+1183,Amanda Moore,32,Norfolk Island
+1184,Stephanie Carter,49,Isle of Man
+1185,Charles Davis,25,Nigeria
+1186,Marc Sellers,59,New Zealand
+1187,Sherri Adams,30,Guernsey
+1188,Sarah Wu,25,Cook Islands
+1189,Aaron Rocha,52,Ukraine
+1190,Andrea Cardenas,24,Falkland Islands (Malvinas)
+1191,Caitlin Rodriguez,36,Iraq
+1192,Angela Adams,31,Paraguay
+1193,Jesus Mccarty,63,Montserrat
+1194,Megan Odom,48,Vietnam
+1195,Bradley Gomez,41,Syrian Arab Republic
+1196,Willie Perez,59,Myanmar
+1197,Jennifer Newman,31,Pitcairn Islands
+1198,John Owens,47,Tuvalu
+1199,Collin Nelson,46,New Zealand
+1200,Nicholas Mckinney,33,Saudi Arabia
+1201,Michael Kelley,48,Korea
+1202,James Doyle,28,Nauru
+1203,Tyler Rose,50,Finland
+1204,Steven Russell,49,New Zealand
+1205,Jeremy Oneill,61,United States Virgin Islands
+1206,Steven Greene,62,Guinea
+1207,Madison Jones,50,Lesotho
+1208,Sandra Moore,51,Samoa
+1209,Joseph Brennan,43,Niger
+1210,Nicholas Navarro,25,Nicaragua
+1211,Samuel Price,22,Eritrea
+1212,Austin Taylor,54,United Arab Emirates
+1213,Amanda Diaz,43,Sri Lanka
+1214,Kevin Peters,29,Bahamas
+1215,Bryan Martin,44,Armenia
+1216,Mrs. Mary Clements,64,French Guiana
+1217,James Young,40,Panama
+1218,Kayla Olson,57,Maldives
+1219,Austin Hernandez,37,United States of America
+1220,Anthony Glenn,31,Oman
+1221,Brittany Castillo,54,Botswana
+1222,Ronald Ayers,21,Sudan
+1223,Nicole Hodge,32,Faroe Islands
+1224,Thomas Jones,60,Argentina
+1225,Alicia Lee,58,Guyana
+1226,Katie Garcia,29,Bangladesh
+1227,Jeffrey Olsen,41,Sudan
+1228,Denise Crawford,58,Afghanistan
+1229,David Baker,51,Oman
+1230,Anthony Hall,43,Mexico
+1231,Nicole Mejia,19,Honduras
+1232,Felicia French,19,Bosnia and Herzegovina
+1233,Dustin Petersen,46,Lebanon
+1234,Eduardo Ray,49,Sri Lanka
+1235,Janice Lloyd,32,Guyana
+1236,Collin Arnold,53,Uzbekistan
+1237,Bonnie Valenzuela,29,Cote d'Ivoire
+1238,Raymond Green,45,Aruba
+1239,Walter Black,38,Croatia
+1240,Kelly Robinson,40,United Arab Emirates
+1241,Seth Schneider,29,San Marino
+1242,Sydney Cross,53,Austria
+1243,William Flynn,57,Trinidad and Tobago
+1244,Anthony Clark,27,Congo
+1245,Patrick Brown,51,South Africa
+1246,Kathy Stokes,64,Svalbard & Jan Mayen Islands
+1247,Beth Garcia,50,Marshall Islands
+1248,Mr. Andrew Pennington II,54,Montserrat
+1249,Jackson Morgan,58,Ethiopia
+1250,Jay Diaz,48,Israel
+1251,Joseph Pearson,28,Ireland
+1252,Elizabeth Cortez,44,Eritrea
+1253,Tanya Savage,64,Jamaica
+1254,Nicholas Dougherty,45,Lao People's Democratic Republic
+1255,Jennifer Johnson,42,Netherlands Antilles
+1256,Lindsey Grant,57,Micronesia
+1257,Brandon Gray,52,Belize
+1258,Todd Cook,60,Liberia
+1259,Joshua Hernandez,24,Guyana
+1260,Sean Reyes,28,Denmark
+1261,Benjamin Harris,21,Greenland
+1262,Travis Clark,58,Micronesia
+1263,Veronica Johnson,48,Peru
+1264,Tricia Lopez,42,Turks and Caicos Islands
+1265,Laura Wise DVM,52,Holy See (Vatican City State)
+1266,Tracy Hodge,63,Belgium
+1267,Robert Banks,22,Bolivia
+1268,Angel Ruiz,25,Svalbard & Jan Mayen Islands
+1269,Michelle Ramirez,38,Jamaica
+1270,Andrew Burton,47,Angola
+1271,Amy Tran,47,Moldova
+1272,Richard Holland,41,Albania
+1273,Jacob Fernandez,28,Malawi
+1274,Michael Gardner,52,Iceland
+1275,Kathryn Brewer,59,Ireland
+1276,Gerald Perry,60,Egypt
+1277,Laura Marquez,45,Libyan Arab Jamahiriya
+1278,Kevin Reed,58,Mauritius
+1279,Amber Lawrence,54,Macao
+1280,Sharon Hurley,20,France
+1281,Roy Martin,37,Niger
+1282,Kyle Donaldson,58,Spain
+1283,James King,30,Slovakia (Slovak Republic)
+1284,Alyssa Willis,24,Qatar
+1285,Ralph Jones,22,Equatorial Guinea
+1286,Rebecca Rodriguez,23,Seychelles
+1287,Jordan Long,50,Congo
+1288,Dr. Jeffrey Fuller,56,Namibia
+1289,Jose Johnson,44,Jamaica
+1290,Dr. Steven Morales,23,French Guiana
+1291,Taylor Cohen,57,Svalbard & Jan Mayen Islands
+1292,Leslie Walters,31,Faroe Islands
+1293,Roy Smith,49,Russian Federation
+1294,Jonathan Williams,58,Cote d'Ivoire
+1295,Alicia Tucker,36,Slovenia
+1296,Nicole Wheeler,51,Vanuatu
+1297,Donald Ellis,24,Denmark
+1298,Brett Morgan,51,Israel
+1299,Ashley Patterson,33,Svalbard & Jan Mayen Islands
+1300,Mrs. Robyn Perez DDS,55,Micronesia
+1301,Sandra Maldonado,18,Czech Republic
+1302,Kenneth Matthews,46,Ukraine
+1303,Steven Wilson,48,Turkey
+1304,Stacy Gomez,42,Nepal
+1305,Patty Pennington,46,Angola
+1306,Michael Williams,62,Faroe Islands
+1307,Richard Jones,48,Mongolia
+1308,Jeremy Hall,65,Montserrat
+1309,Gwendolyn Andrews,56,Jamaica
+1310,Jaclyn Lucas,36,Panama
+1311,Jill Holt,46,Palau
+1312,Laura Bryan,21,Turkey
+1313,Rachel Parker,49,Timor-Leste
+1314,Luis Sutton,28,Andorra
+1315,Debbie Graham,31,Austria
+1316,Javier David,53,Singapore
+1317,Brittney Dean,41,Togo
+1318,Christopher Jones,33,Croatia
+1319,Raven Foster,20,Barbados
+1320,William Torres,21,Luxembourg
+1321,Mr. Ryan Henderson,54,Palau
+1322,George Rodriguez,34,Paraguay
+1323,Lauren Brewer,20,Cameroon
+1324,Christopher Martin,41,Sri Lanka
+1325,Jeffrey Turner,40,Turkey
+1326,John Perez,21,Cambodia
+1327,Gregory Hunt,61,Lao People's Democratic Republic
+1328,Keith Stewart,65,Afghanistan
+1329,Christina Johnson,20,Mauritania
+1330,Ashley Gomez,60,Moldova
+1331,Christopher Sandoval,47,Angola
+1332,Robert Estrada,22,Mongolia
+1333,Douglas Hodge MD,30,Saint Helena
+1334,Amy Sims,25,Malaysia
+1335,Jenna Daniels,30,Barbados
+1336,Cynthia Beck,61,Jamaica
+1337,Theresa Moody,51,Latvia
+1338,Cindy Newton,46,Mali
+1339,Karen Brown,45,United States of America
+1340,Heather Williams,41,Nepal
+1341,Patricia Hayes,40,Grenada
+1342,Keith Farley,37,Djibouti
+1343,Colleen Reynolds,39,Congo
+1344,Kelly Barr,20,Djibouti
+1345,James Hawkins,18,Brazil
+1346,Andrew Brown,18,Kiribati
+1347,Steven Jimenez,37,Burundi
+1348,Michael White,42,Anguilla
+1349,Chelsea Matthews,34,Saint Martin
+1350,Robert Caldwell,41,Ireland
+1351,Sandy Fox,47,French Guiana
+1352,Kim Carroll,54,Ireland
+1353,Cassandra Cox,32,Cook Islands
+1354,Lynn Webb,46,Ghana
+1355,Kathleen Anderson,24,Morocco
+1356,John Clark,27,British Indian Ocean Territory (Chagos Archipelago)
+1357,Kathy Parker,59,Netherlands Antilles
+1358,Gabriel Wright,65,Togo
+1359,Andrea Mills,31,Serbia
+1360,Steven Vaughn,50,Holy See (Vatican City State)
+1361,Michelle Cook,44,Uruguay
+1362,Catherine Rhodes,56,Saint Vincent and the Grenadines
+1363,Robert Huerta,38,Ecuador
+1364,Michael Johnson,54,Hungary
+1365,Cody Brown,28,Somalia
+1366,Bonnie Lane,39,Senegal
+1367,Madison Blanchard DDS,59,Cocos (Keeling) Islands
+1368,Derrick Allen,51,Serbia
+1369,Evan Jones,40,Netherlands
+1370,Brooke Park,39,Liechtenstein
+1371,Jennifer Hoover,39,Eritrea
+1372,Jeremy Smith,57,Thailand
+1373,Amy Haynes,30,Algeria
+1374,Blake Thompson,30,United Arab Emirates
+1375,Megan Jones,48,Gambia
+1376,Anne Hendrix,32,Central African Republic
+1377,Carly Smith,36,Romania
+1378,Samuel Kennedy,60,Togo
+1379,Alexander Bright,49,Seychelles
+1380,Timothy Herrera,31,Greenland
+1381,Thomas Mccarthy,30,Svalbard & Jan Mayen Islands
+1382,Thomas Pearson,31,Maldives
+1383,Amanda Sandoval,58,Philippines
+1384,Vickie Hernandez,54,Cameroon
+1385,Karen Johnson,56,Palau
+1386,Jeffery Jackson,44,Chad
+1387,Alexander Hughes,31,Sao Tome and Principe
+1388,Lynn Hutchinson,21,Pakistan
+1389,Michael Brown,53,Argentina
+1390,Scott Graham,27,Puerto Rico
+1391,Adam Mckinney,58,Montenegro
+1392,Andrew Vargas,62,Equatorial Guinea
+1393,Devon Moyer,61,New Zealand
+1394,Nicholas Mcdonald,25,Tuvalu
+1395,Brandy Elliott,22,Falkland Islands (Malvinas)
+1396,Rebecca Garcia,46,Estonia
+1397,Sean Reynolds,64,Canada
+1398,Brian Dixon,45,Spain
+1399,Daniel Ferguson,51,Kyrgyz Republic
+1400,Kathleen Khan,48,Sierra Leone
+1401,Michael Mullen,45,United Kingdom
+1402,Joshua Anderson,19,Saint Helena
+1403,Luis Jackson,19,Switzerland
+1404,Tammy Roth,53,Bosnia and Herzegovina
+1405,James Dixon,34,Samoa
+1406,Ronald Meyer,18,Saint Barthelemy
+1407,Daniel Peterson,55,South Georgia and the South Sandwich Islands
+1408,Richard Baker,33,Cook Islands
+1409,Melissa Davis,46,Andorra
+1410,Erin Rodriguez,20,Bosnia and Herzegovina
+1411,Tara Briggs,33,Luxembourg
+1412,Natalie Whitehead,39,Estonia
+1413,Kendra Villa,64,Sao Tome and Principe
+1414,Tyler Whitaker,35,Isle of Man
+1415,Kristi Miller,26,Armenia
+1416,Derek Owen,40,Costa Rica
+1417,Dr. Kiara Cook,41,Saint Helena
+1418,Robert Page,32,Iceland
+1419,Nichole Lutz,65,Guam
+1420,Trevor Lester,56,Lebanon
+1421,Gerald Martin,59,Guatemala
+1422,Brenda Griffith,41,Ecuador
+1423,Joseph Shelton,30,Korea
+1424,Alicia James,53,South Africa
+1425,Paula Davis,22,Rwanda
+1426,Cheryl Carlson,35,United Kingdom
+1427,Kayla Chapman,58,Belize
+1428,Robert Chen,43,Slovakia (Slovak Republic)
+1429,Hannah Hamilton,53,Bolivia
+1430,Kimberly Moss,26,Trinidad and Tobago
+1431,Scott Martinez,64,Liberia
+1432,Cassandra Schneider,35,United Arab Emirates
+1433,Michael Lawson,40,Tuvalu
+1434,Paul Stevens,20,Ukraine
+1435,William Nichols,62,Kyrgyz Republic
+1436,Kari Fisher,30,Tunisia
+1437,Tanya Fowler,59,Yemen
+1438,Jeffrey Owens,21,Tokelau
+1439,Michael Gallegos,49,Gambia
+1440,Joseph Tran,20,Singapore
+1441,Emily Medina,23,Libyan Arab Jamahiriya
+1442,Chelsea Villarreal,21,Chile
+1443,Deanna Carroll,49,Albania
+1444,Timothy Lee,62,Brunei Darussalam
+1445,Lori King,35,Bosnia and Herzegovina
+1446,Andrew Lopez,65,Djibouti
+1447,Taylor Simmons,56,Ghana
+1448,Kimberly Graham,52,Northern Mariana Islands
+1449,Casey Banks,52,South Georgia and the South Sandwich Islands
+1450,Rebecca Lane,43,Norfolk Island
+1451,Tara Crosby,43,Falkland Islands (Malvinas)
+1452,Jessica Parsons,22,Gambia
+1453,Timothy Mcfarland,35,Palestinian Territory
+1454,Steven Jackson,62,India
+1455,Andrew Chapman,32,Iceland
+1456,Elizabeth Wilkins,36,Sri Lanka
+1457,Emily Kirk,53,Russian Federation
+1458,John Shepard,18,Micronesia
+1459,John Bowman,34,Nigeria
+1460,Matthew Ferguson,62,Korea
+1461,Kimberly Smith,56,Ukraine
+1462,Tanya Scott,49,Armenia
+1463,Katie Wilson,19,Saint Kitts and Nevis
+1464,Neil Ramos,50,Uruguay
+1465,Lucas Keller,41,Anguilla
+1466,Adam Alvarez,19,Comoros
+1467,Sierra Jones,41,Kuwait
+1468,Craig Peterson,26,French Polynesia
+1469,Scott Peterson,35,El Salvador
+1470,Levi George,64,Belarus
+1471,Christian Hansen,63,Congo
+1472,Cody Walton,31,Paraguay
+1473,Nancy Williams,19,Mauritania
+1474,Barry Berry,57,China
+1475,Joseph Pena,29,Bahrain
+1476,Megan Melendez,36,Estonia
+1477,Ryan Johnson,38,Qatar
+1478,Amber Jones,39,Tajikistan
+1479,Robert Alvarado,52,British Indian Ocean Territory (Chagos Archipelago)
+1480,Frank Stanley,50,Albania
+1481,Travis Wright,31,Taiwan
+1482,Adam Vang,64,Iceland
+1483,Loretta Riggs,18,Latvia
+1484,James Harrison,24,Cambodia
+1485,Casey Bell,40,British Indian Ocean Territory (Chagos Archipelago)
+1486,Scott Matthews,47,France
+1487,James Garcia,43,Guernsey
+1488,Ashley Hendrix,56,Holy See (Vatican City State)
+1489,Tommy Mcdaniel,38,Vietnam
+1490,Christopher Tran,64,Swaziland
+1491,Jennifer Cox,47,Zimbabwe
+1492,Jeffrey Chambers,62,Estonia
+1493,Amanda Jackson,61,Norway
+1494,Nathan Frazier,42,Guatemala
+1495,Anna Jackson,52,North Macedonia
+1496,Gavin Giles,65,Dominican Republic
+1497,Charles Kennedy,65,United Kingdom
+1498,George Juarez MD,34,Hungary
+1499,Jennifer Lane,59,Equatorial Guinea
+1500,Whitney Hogan,18,Malawi
+1501,Jermaine Smith,61,Mali
+1502,Amanda Nguyen,52,French Southern Territories
+1503,William Howe,20,Romania
+1504,Derek Jensen,49,British Virgin Islands
+1505,Marissa Jackson,63,Paraguay
+1506,Dana Cook,36,Solomon Islands
+1507,Edwin Leblanc,19,Albania
+1508,Michael Peterson,44,Kuwait
+1509,Lindsey Jackson,37,Morocco
+1510,Donna Donovan,59,Burundi
+1511,Denise Bond,35,Moldova
+1512,Kayla Shaw,63,New Zealand
+1513,James Bass,33,Belize
+1514,Michael Boyd,27,New Zealand
+1515,Samantha Grant,51,Germany
+1516,Emily Edwards,31,Liberia
+1517,Jamie Ray,57,Angola
+1518,Laura Lopez,60,Isle of Man
+1519,Jennifer White,56,Namibia
+1520,Robin Perez,44,Seychelles
+1521,Dave Lewis,43,Northern Mariana Islands
+1522,Linda Butler,19,Cote d'Ivoire
+1523,Christine Curtis,31,Seychelles
+1524,Emily Hartman,33,Hong Kong
+1525,Tracy Gates,46,Canada
+1526,Robert Ellis,50,Equatorial Guinea
+1527,Angela Diaz,35,Tonga
+1528,Mallory Anderson,33,New Zealand
+1529,Mary Hodges,57,Poland
+1530,David Reid,54,Switzerland
+1531,Jamie Barnes,24,Libyan Arab Jamahiriya
+1532,Whitney Lawrence,36,Cape Verde
+1533,Jessica Garcia,56,Western Sahara
+1534,Robert Salinas,41,Guadeloupe
+1535,Daniel Evans,38,Isle of Man
+1536,Alec Hubbard,45,Israel
+1537,Keith Aguilar,19,Saint Kitts and Nevis
+1538,Laura Turner,46,Kyrgyz Republic
+1539,Stacey Hawkins,42,Niue
+1540,Vincent Wong,62,United States of America
+1541,Barbara Williams,31,Svalbard & Jan Mayen Islands
+1542,Nathan Elliott,27,Malta
+1543,Pamela Rubio,27,Saint Martin
+1544,Molly Floyd,65,Falkland Islands (Malvinas)
+1545,Margaret Martinez,33,Rwanda
+1546,Danny Proctor,29,Rwanda
+1547,Vincent Delgado,20,Reunion
+1548,Ronald Thomas,65,Guam
+1549,Jacob Stewart,18,Moldova
+1550,William Ramirez,57,Egypt
+1551,Rebecca Duffy,36,Brunei Darussalam
+1552,Brandi Harrison,65,Uganda
+1553,Pamela Johnson DVM,50,Burundi
+1554,Corey Wood,40,Benin
+1555,Julie Mathis,22,Tanzania
+1556,Kenneth Thompson,28,Bouvet Island (Bouvetoya)
+1557,Anthony Le,55,Singapore
+1558,Victoria Gomez,64,Netherlands
+1559,Felicia Walters,46,Denmark
+1560,Katherine Wolfe,35,Czech Republic
+1561,Samantha Hubbard,27,Luxembourg
+1562,Ashley Hicks,48,Norfolk Island
+1563,David Collins,24,Peru
+1564,Jeffrey Henderson,38,Angola
+1565,Sara Petersen,28,Bosnia and Herzegovina
+1566,David Little,28,Slovakia (Slovak Republic)
+1567,Joanna Wilkins,41,Uzbekistan
+1568,John Sanchez,52,Azerbaijan
+1569,James Evans,50,Sudan
+1570,Lisa Thompson,28,Dominican Republic
+1571,Mallory Trevino,23,Martinique
+1572,Richard Davis,52,Saint Vincent and the Grenadines
+1573,Karla Norris,44,Comoros
+1574,Gary Brown,29,Denmark
+1575,Jennifer Whitney,45,Barbados
+1576,Thomas Robinson,51,Estonia
+1577,Debra Arnold,59,Trinidad and Tobago
+1578,David Graves,52,Cote d'Ivoire
+1579,Diana Fields,19,Iceland
+1580,Michael Hoffman,20,Burundi
+1581,Karen Hudson,30,Cayman Islands
+1582,Melissa Bell,54,Kenya
+1583,Sheri Thompson MD,21,French Polynesia
+1584,Samantha Hernandez,43,Vietnam
+1585,Mrs. Wendy Larson,29,Libyan Arab Jamahiriya
+1586,Patrick Petty,39,Haiti
+1587,Timothy Oneill,40,Lithuania
+1588,Donna Hall,52,Montenegro
+1589,Deborah Villarreal,46,Saint Martin
+1590,Angela Harrison,42,Venezuela
+1591,Brenda Davis,47,Maldives
+1592,James Jones,32,Montserrat
+1593,Brooke Weiss,58,Colombia
+1594,Ryan Fernandez,63,Eritrea
+1595,John Olson,60,Puerto Rico
+1596,Regina Harmon,33,Tokelau
+1597,Mike Henderson,49,Switzerland
+1598,Edward Newton,29,Marshall Islands
+1599,Kenneth Wolfe,44,Algeria
+1600,Gregory Gilmore,39,Mali
+1601,Annette Welch,52,Bahrain
+1602,Eric Mullins,33,Colombia
+1603,Elizabeth Byrd,62,Jordan
+1604,Jacqueline Bishop,19,Christmas Island
+1605,Allen Anderson,60,Afghanistan
+1606,Samuel Taylor,41,Central African Republic
+1607,Melissa Salas,64,Mauritania
+1608,Daniel Atkins,19,Turkmenistan
+1609,Monique Baldwin,51,Syrian Arab Republic
+1610,Brent Ramirez,46,Bolivia
+1611,Martin Becker,41,Saint Vincent and the Grenadines
+1612,Carmen Franco,51,Colombia
+1613,Kylie Christensen,61,Colombia
+1614,William Peck,24,Gambia
+1615,Roberto Graham,25,Australia
+1616,Eric Gregory,64,South Africa
+1617,Mr. Michael Shah,20,Togo
+1618,Karen Rogers,20,Czech Republic
+1619,Rebecca Huff,21,Sao Tome and Principe
+1620,Joseph Ramirez,39,United States Virgin Islands
+1621,Robert Benton,43,Heard Island and McDonald Islands
+1622,Tina Valdez,62,Tunisia
+1623,Michael Parsons,42,Germany
+1624,Kenneth Roberts,54,Bouvet Island (Bouvetoya)
+1625,Elizabeth Nash,24,Heard Island and McDonald Islands
+1626,Stephen Foster,22,Madagascar
+1627,John Leach,41,Belgium
+1628,Elizabeth Miranda,36,Syrian Arab Republic
+1629,Ralph Austin,40,Saint Pierre and Miquelon
+1630,Alicia Brown,59,Sweden
+1631,Allison Cooper,63,Australia
+1632,Derek Kaufman,26,Brazil
+1633,Kaitlyn Price,56,Egypt
+1634,Renee Day,18,Namibia
+1635,Kathy Golden,26,Ireland
+1636,Robert Willis,22,Haiti
+1637,Andrew Hampton,60,Palau
+1638,Samantha Salinas,56,Armenia
+1639,Katherine Williams,30,Angola
+1640,Brian Payne,33,Maldives
+1641,Mr. Timothy Lawrence Jr.,22,French Guiana
+1642,Michael Perkins,55,Equatorial Guinea
+1643,Ariel Gregory,34,Oman
+1644,Jason Ramos,64,Niger
+1645,Monica Sanchez,58,Georgia
+1646,Michael Rowland,36,Isle of Man
+1647,David Gardner,24,Seychelles
+1648,David Smith,34,Azerbaijan
+1649,Kelly Dixon,49,Barbados
+1650,Robert Warren,34,Canada
+1651,Russell Cortez,22,China
+1652,Kayla Mitchell,64,Mozambique
+1653,Paul Jones,33,Namibia
+1654,Jaime Harris,55,Czech Republic
+1655,Kevin Gonzalez,63,Christmas Island
+1656,Larry Curtis,44,Maldives
+1657,Roy Macias,56,Uruguay
+1658,Angela Olson,45,Guinea
+1659,Joshua Miller,24,Reunion
+1660,Morgan Brooks,30,Bangladesh
+1661,Eric Miller,60,Tunisia
+1662,Sara Hughes,25,Mozambique
+1663,Tyler Jackson,18,Cuba
+1664,Dylan Lewis,21,Guyana
+1665,Richard Knox,64,Jamaica
+1666,Lisa Hernandez,39,Guinea-Bissau
+1667,Vickie Vargas,64,Myanmar
+1668,Mr. Mark Brown,20,Kazakhstan
+1669,Austin Hall,38,Egypt
+1670,Leah Browning,53,Lebanon
+1671,Jerry Powell,20,Ireland
+1672,Jacob Johnson,37,Colombia
+1673,Amanda Young,28,Reunion
+1674,Donna Houston,40,Libyan Arab Jamahiriya
+1675,Jessica Valdez,23,San Marino
+1676,Jacob Turner,25,Korea
+1677,Jeffrey Rogers,52,Svalbard & Jan Mayen Islands
+1678,Jerry Clark,43,Uzbekistan
+1679,Kelly Padilla,30,Tuvalu
+1680,Jose Golden,38,Saudi Arabia
+1681,Anthony Kaiser,61,Croatia
+1682,Joseph Guzman,53,Andorra
+1683,Alexis Collins,24,Fiji
+1684,Jason Gomez,20,Puerto Rico
+1685,Leslie Atkins,50,Sierra Leone
+1686,James Payne,57,Chile
+1687,Laura Montgomery,61,Italy
+1688,Belinda Rogers,65,Spain
+1689,Natalie Johnson,62,Germany
+1690,Priscilla Johnson,36,Korea
+1691,Melissa Brown,48,United States of America
+1692,George Moore,65,Korea
+1693,Brian Clark,51,Gambia
+1694,Cynthia Ramirez,18,Chad
+1695,Jacqueline Reeves,59,Tanzania
+1696,Heather Mathews,51,Djibouti
+1697,Jerry Howard,44,Botswana
+1698,Teresa Brown,27,Liberia
+1699,Jessica Brandt,56,Belize
+1700,Helen Walker,61,Pitcairn Islands
+1701,Philip Morris,49,Djibouti
+1702,Stephanie Blackburn,37,Gabon
+1703,Diana Gutierrez,32,Spain
+1704,Brian Reeves,49,Rwanda
+1705,Andrew Hampton III,50,Djibouti
+1706,Nicholas Vasquez,43,Liberia
+1707,Joel Steele,23,Gabon
+1708,Kimberly Roberts,44,Egypt
+1709,Vicki Gregory,50,Falkland Islands (Malvinas)
+1710,Anthony Robinson,26,Honduras
+1711,Jeanne Cline,48,Thailand
+1712,Christian Carter,41,Bulgaria
+1713,Kimberly Richards,22,Luxembourg
+1714,Joshua Lynch,29,South Africa
+1715,John Nelson,53,Uruguay
+1716,Kelly Henderson,36,Peru
+1717,Kevin Montes,35,United Arab Emirates
+1718,Dr. Katelyn Thomas,49,New Caledonia
+1719,Stephen Gould,22,Liberia
+1720,Anna May,26,Mali
+1721,Kristi Reyes,54,Niue
+1722,Peter Bennett,64,South Africa
+1723,Mrs. Vanessa Thompson,42,Uzbekistan
+1724,Natalie Lee,23,Kiribati
+1725,Michelle Harding,29,Martinique
+1726,David Rodriguez,18,Norway
+1727,Amy Walker,31,Heard Island and McDonald Islands
+1728,Donna Little,42,Nepal
+1729,Samuel Burton,45,France
+1730,John Jones,41,Solomon Islands
+1731,Jessica Dean,47,Bahamas
+1732,Julia Marsh,27,Tonga
+1733,Tony Cohen,39,Canada
+1734,Sean Blevins,59,Guernsey
+1735,Jennifer Soto,49,Kenya
+1736,Abigail Hoffman,53,Malaysia
+1737,Parker Bryant,32,Kuwait
+1738,Joshua Lopez,59,Antigua and Barbuda
+1739,Julie Walker,46,Svalbard & Jan Mayen Islands
+1740,Elizabeth Ramirez MD,46,Hong Kong
+1741,Anthony Riley,29,Kenya
+1742,Andrew Barr,34,Luxembourg
+1743,Samantha Hudson,32,Kiribati
+1744,Monica Davis,47,El Salvador
+1745,Patricia Murphy,35,Saint Helena
+1746,Timothy Williams,45,New Caledonia
+1747,Sandra Fernandez,21,Luxembourg
+1748,Patrick Long,31,Uzbekistan
+1749,Bradley Warner,53,Hungary
+1750,Mr. Kyle Johnson DDS,30,Netherlands Antilles
+1751,Brenda Tanner,23,San Marino
+1752,Scott Carroll,41,Ireland
+1753,Dr. Linda Prince,60,Slovenia
+1754,Lindsey Peters,54,Hungary
+1755,Gary Wilkinson,29,Northern Mariana Islands
+1756,Michael Schneider PhD,59,Switzerland
+1757,Matthew Little,56,United States Minor Outlying Islands
+1758,Tara Foster,47,Lithuania
+1759,Samuel Reynolds,42,Dominican Republic
+1760,Danielle Robinson,52,Colombia
+1761,Mrs. Dawn Shaw,32,Mongolia
+1762,Tammy White,32,Bolivia
+1763,Samantha Rubio,45,Greece
+1764,Daniel Turner,29,Mozambique
+1765,Thomas Baker,24,Liberia
+1766,Ronald Newman,43,Tuvalu
+1767,Lauren Jones,19,Honduras
+1768,Sara Barber,54,Cyprus
+1769,Lisa Williams,36,Comoros
+1770,Derek Garrett,50,Kuwait
+1771,Denise Baker,40,Uganda
+1772,Michele Randolph,26,Guatemala
+1773,Darlene Williams,25,Kiribati
+1774,Angela Richard,38,Switzerland
+1775,Francisco Wright,52,Vietnam
+1776,Jennifer Wiley,35,British Indian Ocean Territory (Chagos Archipelago)
+1777,John Smith,30,Bosnia and Herzegovina
+1778,Joseph Morrison,53,Liechtenstein
+1779,Sara Moore,32,San Marino
+1780,Tina Craig,34,Belize
+1781,Kellie Jones,62,Syrian Arab Republic
+1782,Nichole Copeland,18,Bermuda
+1783,Javier Lucas,46,Jordan
+1784,Sandra Mooney,36,Panama
+1785,Edwin Wright,36,Liechtenstein
+1786,Gabriel Jones,35,Chile
+1787,Martin Rhodes,60,Japan
+1788,Joseph Gilbert,45,Rwanda
+1789,Nancy Vaughn,27,Cook Islands
+1790,Alexander Johnson,25,Timor-Leste
+1791,Abigail Williams,52,Afghanistan
+1792,Mary Watkins,36,Tajikistan
+1793,Joseph Carter,25,Sri Lanka
+1794,Amber Williams,45,Namibia
+1795,Emily Shea,56,Angola
+1796,Barbara Alvarado,58,Tuvalu
+1797,Alex White,47,Chile
+1798,Christine Henderson,36,Colombia
+1799,Nichole Miller,32,Lithuania
+1800,Robin Johnson,18,Taiwan
+1801,Terry Rivera,38,French Guiana
+1802,Jessica Herman,23,Italy
+1803,Maria Clayton,26,Antigua and Barbuda
+1804,Michael Mckinney,32,Guinea-Bissau
+1805,Mercedes Norman MD,49,Central African Republic
+1806,Robert Martin,47,Antigua and Barbuda
+1807,Dean Blake,56,Korea
+1808,Mary Johnson,41,Kenya
+1809,Douglas Bond,43,Barbados
+1810,Patricia Henry,64,Venezuela
+1811,Emily Shelton,57,Svalbard & Jan Mayen Islands
+1812,John Payne,27,Tunisia
+1813,Michael Fox,25,Afghanistan
+1814,Michele Russo,39,Slovenia
+1815,Sarah Johnson,21,Argentina
+1816,Karen Cook,53,Poland
+1817,Anthony James,63,Belgium
+1818,Jacob Warren,56,Germany
+1819,Michelle Cobb,23,Congo
+1820,William Murphy,22,Niger
+1821,Miguel Shaw,32,Ecuador
+1822,Monica Jackson,41,Canada
+1823,Michael Chan,31,Sudan
+1824,Brandon Thomas,62,Botswana
+1825,Sara Bell,49,Guatemala
+1826,Lee Hernandez,34,Russian Federation
+1827,James Nichols,52,Indonesia
+1828,Marie Conley,23,Lao People's Democratic Republic
+1829,Rodney Montgomery,31,Andorra
+1830,Kevin Payne,20,Madagascar
+1831,Eric Fox,62,Israel
+1832,Andrew Sheppard,54,Poland
+1833,Joshua Williams,42,United Kingdom
+1834,Alexander Matthews,32,Denmark
+1835,Michael Palmer,34,Cocos (Keeling) Islands
+1836,Martin Morgan,42,Nigeria
+1837,Catherine Young,58,Kazakhstan
+1838,Curtis Marshall,38,Denmark
+1839,Marcus Rivera,63,Chad
+1840,Michael Lambert,38,Bermuda
+1841,Chris Austin,49,Italy
+1842,Michelle Meza,63,Iraq
+1843,Jessica Berry,32,France
+1844,Andrea Webb,31,Brazil
+1845,Christopher Mccoy DDS,65,Colombia
+1846,Hannah Black,35,Lesotho
+1847,Brittany Burns,63,Guinea
+1848,Caitlin Cooper,34,Trinidad and Tobago
+1849,Kathryn Cline,46,Guernsey
+1850,Melissa Parker,59,Ukraine
+1851,Cheryl Lee,36,Cape Verde
+1852,Hunter Lang,54,Palau
+1853,John Patterson,58,Argentina
+1854,Joy Allen,36,Chad
+1855,Jeffrey Cummings,39,Moldova
+1856,Janet Johnson,50,Mozambique
+1857,Nicholas Krueger,25,Mauritius
+1858,John Hodge,61,Lesotho
+1859,Anthony Scott,36,Bhutan
+1860,Robert Thompson,39,Tokelau
+1861,Stephen Harris,26,Norway
+1862,Adam Lee,29,Taiwan
+1863,Jennifer Cunningham,62,Montserrat
+1864,Peter Campos,41,Mozambique
+1865,Amanda Gordon,51,Pitcairn Islands
+1866,Zachary Nichols,28,Korea
+1867,Sarah Murphy,23,Cayman Islands
+1868,Pamela Murray,46,Niger
+1869,Zachary Travis,59,Dominica
+1870,Susan Branch,60,Saint Martin
+1871,Gary Wilson,44,Eritrea
+1872,Cynthia Nguyen,18,British Indian Ocean Territory (Chagos Archipelago)
+1873,Jake Taylor,62,Brunei Darussalam
+1874,Amanda Glass,57,India
+1875,Barbara Winters,38,Timor-Leste
+1876,Eric Adams,22,Israel
+1877,Mark Macias,50,Gibraltar
+1878,David Thomas,42,Saint Helena
+1879,Jessica Wallace,65,Martinique
+1880,Amber Harris,39,Bahamas
+1881,Whitney Sawyer,34,Nauru
+1882,Kathy Garcia,19,Costa Rica
+1883,Brian Hunt,58,Trinidad and Tobago
+1884,Belinda Johnson,19,Togo
+1885,Jennifer Acevedo,55,Palau
+1886,Evan Patterson,52,Mauritania
+1887,Thomas Little,29,Puerto Rico
+1888,Juan Diaz,54,Japan
+1889,Beth Williams,19,Jamaica
+1890,Sean Green,20,Senegal
+1891,James Brown,48,Iceland
+1892,Ronald Terry,39,Saint Lucia
+1893,Laura Hart,61,Timor-Leste
+1894,John Meadows,27,San Marino
+1895,Kristin Brown DDS,26,Croatia
+1896,Mr. Michael Ellis,40,Saint Pierre and Miquelon
+1897,Michael Griffin,60,Belarus
+1898,David Malone,29,Latvia
+1899,Angela Allen,18,Turkey
+1900,Dylan Torres,18,Pitcairn Islands
+1901,Benjamin Phillips,25,Slovakia (Slovak Republic)
+1902,Tyler Miller,62,Tuvalu
+1903,David Perez,24,Tajikistan
+1904,Brandon Vasquez,46,Nigeria
+1905,Samantha Pierce,51,Lesotho
+1906,Rebecca Lloyd,32,Congo
+1907,Cheyenne Williams,33,Saint Vincent and the Grenadines
+1908,Jamie Noble,52,United States Minor Outlying Islands
+1909,Cynthia Zimmerman,58,Peru
+1910,Nathan Marquez,53,Spain
+1911,Elaine Cooper,30,Djibouti
+1912,Megan Johnson,22,United Kingdom
+1913,Jennifer Murray,57,Poland
+1914,Johnny Duke,22,Venezuela
+1915,Mark Miller,25,Cocos (Keeling) Islands
+1916,Jonathan Rogers,32,French Polynesia
+1917,Ashley Dougherty,42,Seychelles
+1918,Matthew Hawkins,63,Norfolk Island
+1919,Sandra Davis,46,India
+1920,Matthew Solis,24,Taiwan
+1921,Jonathan Booth,55,Namibia
+1922,Sean Cain,18,Australia
+1923,David Fuller,54,Indonesia
+1924,David Hammond,39,French Polynesia
+1925,Richard Peterson,24,Luxembourg
+1926,Erik Hughes,19,Papua New Guinea
+1927,Kevin Manning,25,Serbia
+1928,Dr. Danielle Pope,61,Pitcairn Islands
+1929,Richard Tanner,34,Brunei Darussalam
+1930,Sabrina Campbell,45,Guatemala
+1931,Penny Black,27,Congo
+1932,Zachary Lawson,35,Latvia
+1933,Elizabeth Wilson,32,Vietnam
+1934,Aaron Hutchinson,59,Ireland
+1935,Scott Baldwin,42,Cayman Islands
+1936,Charles Jackson,44,French Southern Territories
+1937,Ann Barry,58,Lithuania
+1938,Destiny Torres,58,Paraguay
+1939,Steven Cline,48,United States Minor Outlying Islands
+1940,Angel Ryan,58,Nauru
+1941,Elizabeth Brown,33,Kenya
+1942,Jesse Marquez,51,United States Minor Outlying Islands
+1943,Dr. William Conner,34,Chad
+1944,Michael Chambers,37,Holy See (Vatican City State)
+1945,Janet Brooks,51,Armenia
+1946,John Taylor,36,Mayotte
+1947,Carmen Wolf,54,Nauru
+1948,Walter Wood,39,Tokelau
+1949,John Wright,49,Andorra
+1950,Donald Duarte,51,Liechtenstein
+1951,Travis Dalton,62,Martinique
+1952,Steve Watson,32,Congo
+1953,Kaitlyn Brewer,30,Hungary
+1954,David Wood,65,Denmark
+1955,William Campbell MD,55,Antarctica (the territory South of 60 deg S)
+1956,Courtney Foster,53,Central African Republic
+1957,Kevin Allen,46,Denmark
+1958,Ann Nelson,27,Rwanda
+1959,Michael Perez,53,Saint Martin
+1960,Amanda Peterson,60,New Caledonia
+1961,Jamie Clark,52,Lithuania
+1962,Mathew Patterson,23,Antarctica (the territory South of 60 deg S)
+1963,Jeffrey Martin,24,Nicaragua
+1964,Sarah Allen,19,Turkmenistan
+1965,Suzanne Haney,48,Brunei Darussalam
+1966,Joseph Foley,61,Kenya
+1967,Jonathan Mcdaniel,29,Gabon
+1968,Jeremy Johnson,24,Switzerland
+1969,Michael Maddox,57,Nicaragua
+1970,Richard Grant,37,Eritrea
+1971,Lisa Lester,51,New Caledonia
+1972,Holly Young,20,Indonesia
+1973,Mr. Richard Carter MD,56,Japan
+1974,Mark Ryan,22,Reunion
+1975,Daniel Williams,58,Belgium
+1976,Mario Morton,41,Greece
+1977,Bobby York,53,Greenland
+1978,Jason Booth,63,Zambia
+1979,Alyssa Erickson,24,Tanzania
+1980,Elaine Edwards,42,Mali
+1981,Julie Pearson,41,Afghanistan
+1982,Abigail Leonard,59,El Salvador
+1983,Madeline White,23,Slovakia (Slovak Republic)
+1984,Dwayne James,58,Macao
+1985,David Smith,21,Cuba
+1986,Jennifer Stevens,37,Liberia
+1987,Eric Davis,30,Slovenia
+1988,William Hooper,55,Pitcairn Islands
+1989,Joseph Edwards,37,Denmark
+1990,Anthony Curry,31,Cocos (Keeling) Islands
+1991,Jill Richard,42,Burkina Faso
+1992,Jennifer Williams,27,Romania
+1993,Samuel West,63,San Marino
+1994,Julie Duffy,36,Peru
+1995,Kimberly Howard,33,Guinea
+1996,Brian Stevens MD,65,Uganda
+1997,Jon Clay,58,Liberia
+1998,Michael Ibarra,46,Slovakia (Slovak Republic)
+1999,John Black,32,Ukraine
+2000,Carolyn Wright,64,Sri Lanka
