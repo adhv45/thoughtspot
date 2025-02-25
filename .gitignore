@@ -1,0 +1,9 @@
+# ignore comon Python file types
+*.pytest
+*.pyc
+__pycahche__/
+*.egg-info/
+*.egg
+.vscode/
+.DS_Store
+.tmp_*
